@@ -7,3 +7,4 @@ contract Greeting {
         return "Hello Blockchain!";
     }
 }
+Add simple storage contract
