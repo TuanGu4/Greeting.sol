@@ -10,3 +10,4 @@ contract Greeting {
 Add simple storage contract
 Add simple test case
 Optimize function calls
+Fix logic error
