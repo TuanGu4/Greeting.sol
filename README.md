@@ -11,3 +11,4 @@ Add simple storage contract
 Add simple test case
 Optimize function calls
 Fix logic error
+Update state variable
